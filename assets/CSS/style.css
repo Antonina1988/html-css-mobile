@@ -1,0 +1,64 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  height: 450px;
+  background-color: grey;
+  background-image: url(./pexels-photo-247791.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  text-align: center;
+  line-height: 50px;
+  font-style: italic;
+  font-weight: 900;
+  color: aliceblue;
+}
+h1 {
+  color: aliceblue;
+  margin: 10px;
+  text-overflow: ellipsis;
+}
+a {
+  color: aliceblue;
+  text-overflow: ellipsis;
+  border: 2px solid aliceblue;
+}
+
+section h2 {
+  text-align: center;
+  margin: 50px;
+}
+section p {
+  margin: 20px;
+  column-count: 2;
+}
+.Web {
+  width: 300px;
+  border: 15px solid black;
+  padding: 50px;
+  margin: 60px;
+  display: inline-block;
+}
+.Mobile {
+  width: 300px;
+  border: 15px solid black;
+  padding: 50px;
+  margin: 60px;
+  display: inline-block;
+}
+.Tech {
+  width: 300px;
+  border: 15px solid black;
+  padding: 50px;
+  margin: 60px;
+  display: inline-block;
+}
+h4 {
+  text-align: center;
+  font-size: 25px;
+  margin: 20px;
+}
